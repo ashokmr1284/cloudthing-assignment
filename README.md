@@ -1,1 +1,0 @@
-# React-Redux-Thunk-Bootstrap-Axios-Boilerplate

@@ -1,0 +1,3 @@
+const actionTypes = {
+  SEARCH: "SEARCH",
+};
