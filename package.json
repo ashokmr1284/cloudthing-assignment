@@ -40,7 +40,7 @@
     "@material-ui/styles": "^4.9.13",
     "axios": "^0.19.2",
     "immutable": "^4.0.0-rc.12",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "react-hot-loader": "^4.3.11",
